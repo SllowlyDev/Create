@@ -18,3 +18,11 @@ $ git clone https://github.com/SllowlyDev/Create
 $ cd Create
 
 $ python MainFB.py
+
+# Buat Yang Sudah Install Module Tinggal Update Saja
+
+$ cd Create
+
+$ git pull
+
+$ python MainFB.py
