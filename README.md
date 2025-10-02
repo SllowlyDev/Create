@@ -13,6 +13,8 @@ $ pkg install git -y
 
 $ pip install rich requests bs4 faker
 
+$ pip install fake_useragent
+
 $ git clone https://github.com/SllowlyDev/Create
 
 $ cd Create
