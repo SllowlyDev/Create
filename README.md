@@ -5,6 +5,9 @@ Tools Premium Create Akun Facebook
 https://f-droid.org/repo/com.termux_1022.apk
 
 # Install Module Python
+
+$ termux-setup-storage 
+
 $ pkg update && upgrade -y
 
 $ pkg install python -y
