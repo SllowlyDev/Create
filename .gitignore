@@ -1,0 +1,25 @@
+# Sensitive files
+.env
+.env.*
+*.secrets
+credentials.json
+
+# Output files with account data
+FACEBOOKME/
+fbfreshmu.txt
+fb_accounts_log.txt
+
+# Contact files
+contacts.txt
+contact_example.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Config
+.fbcreator_config
